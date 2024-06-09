@@ -1,0 +1,24 @@
+{
+  "items": [
+    {
+      "id": "1",
+      "checked": true,
+      "item": "visit karthickeyan.netlify"
+    },
+    {
+      "id": "2",
+      "checked": true,
+      "item": "frontend"
+    },
+    {
+      "id": "3",
+      "checked": false,
+      "item": "AI"
+    },
+    {
+      "id": "31",
+      "checked": false,
+      "item": "Java"
+    }
+  ]
+}
